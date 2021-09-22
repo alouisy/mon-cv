@@ -1,0 +1,130 @@
+{
+  "projects": [
+    {
+      "title": "Game Of Life",
+      "description": "Projet algo C réalisé à SUPINFO, il s'agit du jeu de la vie.",
+      "category": "Algo",
+      "language": "C",
+      "repo": "https://github.com/alouisy/gameoflife",
+      "illustration": "https://azzxl.com/img/gameoflife.gif",
+      "id": 1
+    },
+    {
+      "title": "FdF",
+      "description": "Projet graphique C, il s'agit d'un affichage 3D en fil de fer d'un plan donné en entré.",
+      "category": "Graphisme",
+      "language": "C",
+      "repo": "https://github.com/alouisy/fdf",
+      "illustration": "https://azzxl.com/img/fdf.gif",
+      "id": 2
+    },
+    {
+      "title": "Fract'ol",
+      "description": "Projet graphique C, le but est d'afficher des fractales mathématiques.",
+      "category": "Graphisme",
+      "language": "C",
+      "repo": "https://github.com/alouisy/fract_ol",
+      "illustration": "https://azzxl.com/img/fract-ol.gif",
+      "id": 3
+    },
+    {
+      "title": "Corewar",
+      "description": "Projet de fin de la branche algo, il consiste a rendre une VM et un compilateur ASM afin d'effectuer des combats de joueurs.",
+      "category": "Algo",
+      "language": "C",
+      "repo": "https://github.com/alouisy/corewar",
+      "illustration": "https://azzxl.com/img/corewar.gif",
+      "id": 4
+    },
+    {
+      "title": "Camagru",
+      "description": "Site instagram-like réalisé en PHP dans le cadre des projets de l'école.",
+      "category": "Web",
+      "language": "PHP, Javascript, MYSQL",
+      "repo": "https://azzxl.com/camagru",
+      "illustration": "https://azzxl.com/img/camagru.png",
+      "id": 5
+    },
+    {
+      "title": "Book Inn",
+      "description": "Chatbot de réservation de salle de réunion en espace de co-working",
+      "category": "Web",
+      "language": "Javascript, Node.Js, Botkit.ai, Google API",
+      "repo": "https://github.com/alouisy/",
+      "illustration": "http://localhost:3000/Book-Inn.gif",
+      "id": 6
+    },
+    {
+      "title": "Adm Inn",
+      "description": "Web App de gestion des réservations faites via Book Inn",
+      "category": "Web, Frontend, Backend",
+      "language": "HTML, CSS, Bootstrap, Javascript, Jquery, Node.Js, Express",
+      "repo": "https://github.com/alouisy/",
+      "illustration": "http://localhost:3000/Adm-Inn.gif",
+      "id": 7
+    },
+    {
+      "title": "Meet Inn",
+      "description": "Projet de R&D hardware autour de la création d'écrans numériques d'affichage pour les salles de réunion",
+      "category": "Hardware, Software, Web",
+      "language": "E-ink, impression 3D, esp32, C++, HTML, CSS, Bootstrap, Javascript, Jquery, Node.Js",
+      "repo": "https://github.com/alouisy/",
+      "illustration": "http://localhost:3000/Meet-Inn.gif",
+      "id": 8
+    },
+    {
+      "title": "Sinna Display",
+      "description": "Projet de R&D hardware bis autour de la création d'écrans numériques d'affichage des horaires pour les synagogues",
+      "category": "Hardware, Software, Web",
+      "language": "E-ink, impression 3D, esp32, C++, Node.Js, Express",
+      "repo": "https://github.com/alouisy/",
+      "illustration": "http://localhost:3000/Sinna-Display.gif",
+      "id": 9
+    },
+    {
+      "title": "QtoS",
+      "description": "Outil interne de liaison entre QuickBooks et Stripe pour permettre le paiement des factures par les clients sans passer par PayPal et ses frais.",
+      "category": "Web, Frontend, Backend",
+      "language": "HTML, CSS, Bootstrap, Javascript, Node.Js, Express, Intuit API, Stripe API",
+      "repo": "https://github.com/alouisy/",
+      "illustration": "http://localhost:3000/QtoS.gif",
+      "id": 10
+    },
+    {
+      "title": "MyWorkInn",
+      "description": "Refonte du projet Adm Inn pour réaliser un système complet de gestion d'un espace de co-working.",
+      "category": "Web, Frontend, Backend",
+      "language": "HTML, CSS, Bootstrap, Javascript, Node.Js, Intuit API, Stripe API",
+      "repo": "https://github.com/alouisy/",
+      "illustration": "http://localhost:3000/MyWorkInn.png",
+      "id": 11
+    },
+    {
+      "title": "MyChrysa",
+      "description": "Web App de gestion et suivi du C.A. de la mercerie Chrysalide(entreprise familliale).",
+      "category": "Web, Frontend, Backend",
+      "language": "HTML, CSS, Bootstrap, Javascript, Node.Js, Express, React.js",
+      "repo": "https://github.com/alouisy/",
+      "illustration": "http://localhost:3000/MyChrysa.png",
+      "id": 12
+    },
+    {
+      "title": "ChrysaFID",
+      "description": "Web App de création et gestion de cartes de fidélité numériques pour de la mercerie Chrysalide (entreprise familliale).",
+      "category": "Web, Frontend, Backend",
+      "language": "HTML, CSS, Bootstrap, Javascript, Node.Js, Express, React.js",
+      "repo": "https://github.com/alouisy/",
+      "illustration": "http://localhost:3000/ChrysaFID.gif",
+      "id": 13
+    },
+    {
+      "title": "Flutty Companion",
+      "description": "Application mobile réalisée dans le cadre d'un projet de l'ecole 42 Paris, qui consiste a afficher les informations des etudiants via l'API du campus.",
+      "category": "Mobile, iOS, Android",
+      "language": "Flutter, Dart",
+      "repo": "https://github.com/alouisy/",
+      "illustration": "http://localhost:3000/Flutty-Companion.mp4",
+      "id": 14
+    }
+  ]
+}
