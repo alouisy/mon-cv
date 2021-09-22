@@ -10,9 +10,9 @@ const ProjectList = ({ projects }) => {
                         <span className="project-stack">{`${project.category} - ${project.language}`}</span>
                         <h2 className="project-title">{project.title}</h2>
                         {project.illustration.includes('.mp4') ? (
-                            <video {`${process.env.REACT_APP_URL}${project.illustration}`} className="project-vid" muted loop autoPlay></video>
+                            <video src={`${process.env.REACT_APP_URL}${project.illustration}`} className="project-vid" muted loop autoPlay></video>
                         ) : (
-                            <img {`${process.env.REACT_APP_URL}${project.illustration}`} alt={`Exemple ${project.title}`} className="project-pic" />
+                            <img src={`${process.env.REACT_APP_URL}${project.illustration}`} alt={`Exemple ${project.title}`} className="project-pic" />
                         )}
                     </Link>
                 </div>
