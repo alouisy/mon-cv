@@ -8,7 +8,7 @@ const Home = () => {
 
     return (
         <div className="cv-container">
-            <h2 className="page-title"><i class="fas fa-sort-down"></i> Curriculum Vitae</h2>
+            <h2 className="page-title"><i className="fas fa-sort-down"></i> Curriculum Vitae</h2>
             <MonCv />
         </div>
     );
