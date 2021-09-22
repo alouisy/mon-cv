@@ -6,7 +6,7 @@
       "category": "Algo",
       "language": "C",
       "repo": "https://github.com/alouisy/gameoflife",
-      "illustration": "https://azzxl.com/img/gameoflife.gif",
+      "illustration": "gameoflife.gif",
       "id": 1
     },
     {
@@ -15,7 +15,7 @@
       "category": "Graphisme",
       "language": "C",
       "repo": "https://github.com/alouisy/fdf",
-      "illustration": "https://azzxl.com/img/fdf.gif",
+      "illustration": "fdf.gif",
       "id": 2
     },
     {
@@ -24,7 +24,7 @@
       "category": "Graphisme",
       "language": "C",
       "repo": "https://github.com/alouisy/fract_ol",
-      "illustration": "https://azzxl.com/img/fract-ol.gif",
+      "illustration": "fract-ol.gif",
       "id": 3
     },
     {
@@ -33,7 +33,7 @@
       "category": "Algo",
       "language": "C",
       "repo": "https://github.com/alouisy/corewar",
-      "illustration": "https://azzxl.com/img/corewar.gif",
+      "illustration": "corewar.gif",
       "id": 4
     },
     {
@@ -42,7 +42,7 @@
       "category": "Web",
       "language": "PHP, Javascript, MYSQL",
       "repo": "https://azzxl.com/camagru",
-      "illustration": "https://azzxl.com/img/camagru.png",
+      "illustration": "camagru.png",
       "id": 5
     },
     {
@@ -51,7 +51,7 @@
       "category": "Web",
       "language": "Javascript, Node.Js, Botkit.ai, Google API",
       "repo": "https://github.com/alouisy/",
-      "illustration": "http://localhost:3000/Book-Inn.gif",
+      "illustration": "Book-Inn.gif",
       "id": 6
     },
     {
@@ -60,7 +60,7 @@
       "category": "Web, Frontend, Backend",
       "language": "HTML, CSS, Bootstrap, Javascript, Jquery, Node.Js, Express",
       "repo": "https://github.com/alouisy/",
-      "illustration": "http://localhost:3000/Adm-Inn.gif",
+      "illustration": "Adm-Inn.gif",
       "id": 7
     },
     {
@@ -69,7 +69,7 @@
       "category": "Hardware, Software, Web",
       "language": "E-ink, impression 3D, esp32, C++, HTML, CSS, Bootstrap, Javascript, Jquery, Node.Js",
       "repo": "https://github.com/alouisy/",
-      "illustration": "http://localhost:3000/Meet-Inn.gif",
+      "illustration": "Meet-Inn.gif",
       "id": 8
     },
     {
@@ -78,7 +78,7 @@
       "category": "Hardware, Software, Web",
       "language": "E-ink, impression 3D, esp32, C++, Node.Js, Express",
       "repo": "https://github.com/alouisy/",
-      "illustration": "http://localhost:3000/Sinna-Display.gif",
+      "illustration": "Sinna-Display.gif",
       "id": 9
     },
     {
@@ -87,7 +87,7 @@
       "category": "Web, Frontend, Backend",
       "language": "HTML, CSS, Bootstrap, Javascript, Node.Js, Express, Intuit API, Stripe API",
       "repo": "https://github.com/alouisy/",
-      "illustration": "http://localhost:3000/QtoS.gif",
+      "illustration": "QtoS.gif",
       "id": 10
     },
     {
@@ -96,7 +96,7 @@
       "category": "Web, Frontend, Backend",
       "language": "HTML, CSS, Bootstrap, Javascript, Node.Js, Intuit API, Stripe API",
       "repo": "https://github.com/alouisy/",
-      "illustration": "http://localhost:3000/MyWorkInn.png",
+      "illustration": "MyWorkInn.png",
       "id": 11
     },
     {
@@ -105,7 +105,7 @@
       "category": "Web, Frontend, Backend",
       "language": "HTML, CSS, Bootstrap, Javascript, Node.Js, Express, React.js",
       "repo": "https://github.com/alouisy/",
-      "illustration": "http://localhost:3000/MyChrysa.png",
+      "illustration": "MyChrysa.png",
       "id": 12
     },
     {
@@ -114,7 +114,7 @@
       "category": "Web, Frontend, Backend",
       "language": "HTML, CSS, Bootstrap, Javascript, Node.Js, Express, React.js",
       "repo": "https://github.com/alouisy/",
-      "illustration": "http://localhost:3000/ChrysaFID.gif",
+      "illustration": "ChrysaFID.gif",
       "id": 13
     },
     {
@@ -123,7 +123,7 @@
       "category": "Mobile, iOS, Android",
       "language": "Flutter, Dart",
       "repo": "https://github.com/alouisy/",
-      "illustration": "http://localhost:3000/Flutty-Companion.mp4",
+      "illustration": "Flutty-Companion.mp4",
       "id": 14
     }
   ]

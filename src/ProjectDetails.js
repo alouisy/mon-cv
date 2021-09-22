@@ -2,7 +2,6 @@ import { Link, useParams } from "react-router-dom";
 import useFetch from './useFetch';
 require('dotenv').config();
 
-
 const ProjectDetails = () => {
     const { id } = useParams();
     const { data: project, isPending, error } = useFetch(`${process.env.REACT_APP_API_URL}/projects/${id}`);
@@ -18,9 +17,9 @@ const ProjectDetails = () => {
                     <h2 className="project-title">{project.title} <a href={project.repo} className="project-link"><i className="fab fa-github"></i></a></h2>
                     <div className="project-desc">{project.description}</div>
                     {project.illustration.includes('.mp4') ? (
-                        <video src={project.illustration} className="project-vid" muted loop autoPlay></video>
+                        <video src={`${process.env.REACT_APP_URL}${project.illustration}`} className="project-vid" muted loop autoPlay></video>
                     ) : (
-                        <img src={project.illustration} alt={`Exemple ${project.title}`} className="project-pic" />
+                        <img src={`${process.env.REACT_APP_URL}${project.illustration}`} alt={`Exemple ${project.title}`} className="project-pic" />
                     )}
                 </article>
             )}
