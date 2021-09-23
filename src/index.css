@@ -140,7 +140,7 @@
   /* margin: 0 auto; */
 }
 
-.project-details .project-pic {
+.project-details .project-pic, .project-details .project-vid {
   /* margin: 0 auto; */
   /* display: block; */
   /* max-height: 450px; */
@@ -168,6 +168,16 @@
   border-right: 1px solid #00d8ff; */
 }
 
+.download-link {
+  display: block;
+}
+.download-link a {
+  /* color: #2f71a1; */
+  text-decoration: none;
+}
+.download-link i {
+  color: #2f71a1;
+}
 .contact-link {
   display: block;
   text-decoration: none;
